@@ -1,0 +1,13 @@
+tweepy
+matplotlib
+scipy
+numpy
+pandas
+dataset
+textblob
+plotly
+wordcloud
+jieba
+bs4
+
+

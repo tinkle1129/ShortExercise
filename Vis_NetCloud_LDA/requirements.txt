@@ -1,0 +1,9 @@
+jieba
+pandas
+gensim
+wordcloud
+matplotlib
+scipy
+datetime
+thulac
+sklearn
